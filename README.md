@@ -1,18 +1,19 @@
-### perintah #####
-$ pkg update
+    $ cara penginstalan ♥
 
-$ pkg upgrade
+    pkg update
 
-$ pkg install git
+    pkg upgrade
 
-$ pkg install python
+    pkg install git
 
-$ pip install bs4
+    pkg install python
 
-$ pip install requests
+    pip install bs4
 
-$ git clone https://github.com/khamdihi-XV/simpel
+    pip install requests
+ 
+    git clone https://github.com/khamdihi-XV/simpel
 
-$ cd simpel
+    cd simpel
 
-$ python simpel.py
+    python simpel.py
