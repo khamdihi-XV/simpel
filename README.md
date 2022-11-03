@@ -6,4 +6,4 @@
     pip install requests 
     git clone https://github.com/khamdihi-XV/simpel
     cd simpel
-    python simpel.py
+    python Run.py
