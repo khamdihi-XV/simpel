@@ -7,3 +7,5 @@
     git clone https://github.com/khamdihi-XV/simpel
     cd simpel
     python Run.py
+
+    Kasih bintang lah ka😗
