@@ -9,3 +9,4 @@
     python Run.py
 
     Kasih bintang lah ka😗
+    Masih ada bug? Langsung lapor aja : 085729416714
